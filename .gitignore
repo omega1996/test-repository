@@ -1,2 +1,8 @@
 new-personal.html
 personal.html
+Personal.html
+
+temp/*.html
+
+#файлы проекта
+node_modules
